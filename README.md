@@ -20,8 +20,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: KISHORE B
 RegisterNumber: 212223240073
 */
-```
-```python
+
 # IMPORT REQUIRED PACKAGE
 import pandas as pd
 import numpy as np
