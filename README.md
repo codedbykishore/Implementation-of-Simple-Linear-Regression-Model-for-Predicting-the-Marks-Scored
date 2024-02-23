@@ -70,22 +70,34 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 To Read Head and Tail Files
+
 ![image](https://github.com/codedbykishore/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139122/0f505b88-07a2-4c89-ac07-aad9d2a6a80b)
 
+
 Compare Dataset
+
 ![image](https://github.com/codedbykishore/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139122/ab4e1866-d933-4a04-b4e9-696b83a6a83f)
 
+
 Predicted Value
+
 ![image](https://github.com/codedbykishore/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139122/4eea1d85-36b6-4471-9cfd-6c692cf00a4e)
 
+
 Graph For Training Set
+
 ![image](https://github.com/codedbykishore/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139122/007d6f64-9451-4822-9d8b-3d0e755b3d41)
 
+
 Graph For Testing Set
+
 ![image](https://github.com/codedbykishore/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139122/c7d477a8-1d6b-4df1-b975-31829892f69a)
 
+
 Error
+
 ![image](https://github.com/codedbykishore/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/147139122/af14bc9d-1ef9-473f-bba2-a050a9f9f74e)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
